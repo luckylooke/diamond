@@ -1,0 +1,35 @@
+{
+  "name": "diamond",
+  "version": "0.0.1",
+  "description": "Library for adding support of SOLID principles to any project, for now it just have support of \"open-closed\" principle.",
+  "main": "/dist/diamond.js",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack --display-error-details"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckylooke/diamond.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "solid",
+    "dragula",
+    "simple",
+    "customizable",
+    "best"
+  ],
+  "author": "luckylooke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckylooke/diamond/issues"
+  },
+  "homepage": "https://github.com/luckylooke/diamond#readme",
+  "dependencies": {
+    "es6-promise": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
