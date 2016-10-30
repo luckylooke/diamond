@@ -1,3 +1,8 @@
+### <<< !!!IMPORTANT NOTICE!!! >>>
+This project is for now stopped, I decided to develope separate lib for open/closed principle called [middle](https://github.com/luckylooke/middle). But I am not deleting this yet, because there is possible integration of multiple libs into one package, into diamond. We will see ;)
+
+
+
 # Diamond.js
 Library for adding support of [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) principles to any project, for now it just have support of ["open-closed"](https://en.wikipedia.org/wiki/Open/closed_principle) principle.
 
